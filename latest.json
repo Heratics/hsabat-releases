@@ -1,0 +1,21 @@
+{
+  "version": "2.0.1",
+  "notes": "Hsabat Mahalak v2.0.1\n\nHighlights:\n- First-run setup completion fix and owner password recovery.\n- Fully unified licensing state and badge display between Top Bar and Settings.\n- Automated Minisign-signed update pipeline via GitHub Releases.\n- Standalone offline-first architecture with strict cryptographic trust anchors.",
+  "pub_date": "2026-11-18T11:16:23Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM0ZaMjVnNFBjd0VhRGpocldWdldhTWpFcVl2KzJud1R4MjRtNWNTMmxPN0JhaG4vNXdlNUFXY3RrSzBxNlVDMEw2TzkwNHFPNWtqT25yalowL1JOd0VucDhLNnE4RkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAwNDgxCWZpbGU6SHNhYmF0IE1haGFsYWtfMi4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMC4xCmJWNCtkUEpubXVrQmg3eW43WFdLS252WTc5SmdZRWRSUVRhSW42RzNFbGhwSytMV3dqeGJxL01DdUVBQm90eElnMmhsdENLSlAwcWV2Z08yZGVrSkRRPT0K",
+      "url": "https://github.com/Heratics/hsabat-releases/releases/download/v2.0.1/Hsabat.Mahalak_2.0.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM0ZaMjVnNFBjd0VhRGpocldWdldhTWpFcVl2KzJud1R4MjRtNWNTMmxPN0JhaG4vNXdlNUFXY3RrSzBxNlVDMEw2TzkwNHFPNWtqT25yalowL1JOd0VucDhLNnE4RkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAwNDgxCWZpbGU6SHNhYmF0IE1haGFsYWtfMi4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMC4xCmJWNCtkUEpubXVrQmg3eW43WFdLS252WTc5SmdZRWRSUVRhSW42RzNFbGhwSytMV3dqeGJxL01DdUVBQm90eElnMmhsdENLSlAwcWV2Z08yZGVrSkRRPT0K",
+      "url": "https://github.com/Heratics/hsabat-releases/releases/download/v2.0.1/Hsabat.Mahalak_2.0.1_x64-setup.exe"
+    }
+  },
+  "_metadata": {
+    "filename": "Hsabat Mahalak_2.0.1_x64-setup.exe",
+    "size_bytes": 79337460,
+    "sha256": "A8EA8C3F7D23058CECA4EA6724DD42A57778DE2BC89FEF81E6E2336FDB4B8988",
+    "target_repo": "https://github.com/Heratics/hsabat-releases"
+  }
+}
